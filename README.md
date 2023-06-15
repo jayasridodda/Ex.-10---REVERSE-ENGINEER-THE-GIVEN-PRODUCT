@@ -32,6 +32,8 @@
 
 ## Input:
 
+![modell](https://github.com/jayasridodda/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/123259278/d3aa9373-b331-44da-8171-76328fbd69ec)
+
 ### Output:
 
 
