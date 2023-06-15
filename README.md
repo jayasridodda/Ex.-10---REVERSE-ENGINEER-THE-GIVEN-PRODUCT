@@ -36,8 +36,8 @@
 ### Output:
 ![image](https://github.com/22008837/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/120194155/19aecd5e-83ba-4a7a-a8f7-5b5573c7c2d2)
 
-### Name: B.venkata bharadwaj
-### Register Number: 212222240020
+### Name: JAYASRI DODDA
+### Register Number: 212222240028
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
